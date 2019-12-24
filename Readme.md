@@ -26,6 +26,10 @@ pip install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy
 python app.py
 ```
 
+## Result
+
+![Screenshot](screenshot.png)
+
 ## Contributing
 Pull requests are welcome. 
 
