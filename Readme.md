@@ -17,7 +17,7 @@ pipenv shell
 
 Install project dependencies:
 ```bash
-pip install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy
+pip install flask
 ```
 
 ## Run server
